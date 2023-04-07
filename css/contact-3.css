@@ -1,0 +1,26 @@
+.text-block{
+  display: inline-block;
+  width: 900px;
+  margin-left: 150px;
+  }
+
+  p{
+    margin: 30px;
+    font-style: italic;
+    font-size: larger;
+  }
+  .jansaghi{
+    margin-left: 250px;
+  }
+  .hash1{
+    text-align: center;
+  }
+  .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .second-img{
+    display: flex;
+    justify-content: center;
+  }
